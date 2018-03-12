@@ -1,4 +1,4 @@
-importScripts('workbox-sw.prod.v2.1.0.js');
+importScripts('workbox-sw.prod.v2.1.3.js');
 
 /**
  * DO NOT EDIT THE FILE MANIFEST ENTRY
@@ -19,20 +19,20 @@ importScripts('workbox-sw.prod.v2.1.0.js');
  */
 const fileManifest = [
   {
-    "url": "_next/b03f8c6f-e09e-4056-a484-a934d8621e04/page/_error/index.js",
-    "revision": "0b61454e8989e57b10a3a9a2746f4cff"
+    "url": "_next/58cf54ed-3af5-4bd9-b1ad-28fb984f4606/page/_error.js",
+    "revision": "565db93e89ce5593e42e2a2cc8c42081"
   },
   {
-    "url": "_next/b03f8c6f-e09e-4056-a484-a934d8621e04/page/index.js",
-    "revision": "33019e638cbeae3b459a8df934587aeb"
+    "url": "_next/58cf54ed-3af5-4bd9-b1ad-28fb984f4606/page/index.js",
+    "revision": "2c48c0999f274e360717276acbd48f6c"
   },
   {
-    "url": "_next/db9455b473cb02a4c7b0ba86332ed094/app.js",
-    "revision": "db9455b473cb02a4c7b0ba86332ed094"
+    "url": "_next/66cb8966bf183e4c8d0bcc295d83ecda/app.js",
+    "revision": "66cb8966bf183e4c8d0bcc295d83ecda"
   },
   {
     "url": "index.html",
-    "revision": "54a9cf6ac810ef2fe35afc604117e268"
+    "revision": "ff37c9c3a0ca3fe066b8f1fe25b97940"
   },
   {
     "url": "static/styles.css",
